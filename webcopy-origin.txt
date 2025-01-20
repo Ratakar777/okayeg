@@ -1,0 +1,208 @@
+Uri: https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoPpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoPpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoTpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoTpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMGYPpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMGYPpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMoITpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMoITpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMV4PpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMV4PpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMzITpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMzITpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oTpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oTpBA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oXpBA.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oXpBA.ttf
+Content Type: font/ttf
+
+Uri: https://okayeg.vip/
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\index.htm
+Content Type: text/html
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-cyrillic-400-normal-CJUKFyLa.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-cyrillic-400-normal-CJUKFyLa.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-cyrillic-400-normal-DvQQgHTq.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-cyrillic-400-normal-DvQQgHTq.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-cyrillic-ext-400-normal-B3hZxag_.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-cyrillic-ext-400-normal-B3hZxag_.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-cyrillic-ext-400-normal-ZyMXPjaT.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-cyrillic-ext-400-normal-ZyMXPjaT.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-latin-400-normal-Dm_PoFIZ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-latin-400-normal-Dm_PoFIZ.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-latin-400-normal-O6-GRVqx.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-latin-400-normal-O6-GRVqx.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-latin-ext-400-normal-DxDDqVQb.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-latin-ext-400-normal-DxDDqVQb.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-latin-ext-400-normal-uwM7KshN.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-latin-ext-400-normal-uwM7KshN.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-vietnamese-400-normal-BFiUPp6R.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-vietnamese-400-normal-BFiUPp6R.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/ibm-plex-mono-vietnamese-400-normal-DLynVohM.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\ibm-plex-mono-vietnamese-400-normal-DLynVohM.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/index-B4wCL4Yf.css
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\index-B4wCL4Yf.css
+Content Type: text/css
+
+Uri: https://okayeg.vip/assets/index-CIu6NAQf.js
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\index-CIu6NAQf.js
+Content Type: application/x-javascript
+
+Uri: https://okayeg.vip/assets/inter-all-400-normal-BpORAHN-.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-all-400-normal-BpORAHN-.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/inter-all-500-normal-DEpwPAOL.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-all-500-normal-DEpwPAOL.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/inter-all-600-normal-6xxGzXmH.woff
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-all-600-normal-6xxGzXmH.woff
+Content Type: application/font-woff
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-400-normal-Q-C3FR23.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-400-normal-Q-C3FR23.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-500-normal-5qlZLGbJ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-500-normal-5qlZLGbJ.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-600-normal-IB8NxqO-.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-600-normal-IB8NxqO-.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-ext-400-normal-CFvBWp3v.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-ext-400-normal-CFvBWp3v.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-ext-500-normal-CQJ7qNaA.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-ext-500-normal-CQJ7qNaA.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-ext-600-normal-D7J1nC2I.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-ext-600-normal-D7J1nC2I.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-ext-variable-wghtOnly-normal-CBYe6022.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-ext-variable-wghtOnly-normal-CBYe6022.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-cyrillic-variable-wghtOnly-normal-DHeaknKs.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-cyrillic-variable-wghtOnly-normal-DHeaknKs.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-400-normal-BhkgBvw-.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-400-normal-BhkgBvw-.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-500-normal-DK91uhO_.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-500-normal-DK91uhO_.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-600-normal-y7-1jWHP.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-600-normal-y7-1jWHP.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-ext-400-normal-5_LfLZIP.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-ext-400-normal-5_LfLZIP.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-ext-500-normal-uQR6sOdj.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-ext-500-normal-uQR6sOdj.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-ext-600-normal-CgDc_PFo.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-ext-600-normal-CgDc_PFo.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-ext-variable-wghtOnly-normal-vpOIeGzY.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-ext-variable-wghtOnly-normal-vpOIeGzY.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-greek-variable-wghtOnly-normal-RGdUHdk5.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-greek-variable-wghtOnly-normal-RGdUHdk5.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-400-normal-YtgfLPRn.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-400-normal-YtgfLPRn.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-500-normal-DfX5FI9E.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-500-normal-DfX5FI9E.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-600-normal-BvOeHRLc.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-600-normal-BvOeHRLc.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-ext-400-normal-D3hQhSwC.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-ext-400-normal-D3hQhSwC.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-ext-500-normal-BLXwl4V6.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-ext-500-normal-BLXwl4V6.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-ext-600-normal-D7ynYP0p.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-ext-600-normal-D7ynYP0p.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-ext-variable-wghtOnly-normal-Wjt_kzju.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-ext-variable-wghtOnly-normal-Wjt_kzju.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-latin-variable-wghtOnly-normal-DwMxL0mc.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-latin-variable-wghtOnly-normal-DwMxL0mc.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/assets/inter-vietnamese-variable-wghtOnly-normal-CZXuW_xV.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\assets\inter-vietnamese-variable-wghtOnly-normal-CZXuW_xV.woff2
+Content Type: font/woff2
+
+Uri: https://okayeg.vip/Okayeg_500.png
+File Name: C:\work\Downloaded Web Sites\17.01\okayeg.vip\Okayeg_500.png
+Content Type: image/png
+
